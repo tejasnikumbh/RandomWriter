@@ -1,8 +1,8 @@
 RandomWriter
 ============
 
-Statistical program that generates stories of relevant style according to input training data
-Underlying algorithm uses Markov Models of varying order.
+- Statistical program that generates random stories (of relevant style according to input training data)
+- Underlying algorithm uses Markov Models of varying order.
 
 * Execution Instructions
   - Type ./randomTextOutput to execute the program
